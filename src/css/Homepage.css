@@ -1,0 +1,41 @@
+.message{
+    width: fit-content;
+    height: 50px;
+    border: 2px solid rgb(255, 56, 73);
+    background: rgb(255, 56, 73);
+    border-radius: 50%;
+    margin: 10px auto !important;
+    position: fixed;
+    left: 95%;
+    z-index: 10;
+    top: 90%;
+
+}
+.comment{
+    width: 50px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 9px;
+    font-size: 100px;
+}
+.best{
+    text-transform: uppercase !important;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    font-weight: 600;
+ 
+  }
+.side{
+    width: 2000px;
+    height: 400px;
+    margin-top: -50px;
+}
+.rainy{
+    color: #5B0EBD;
+    font-weight: 700;
+}
+.sign{
+    /* background: rgba(243, 243, 243, 0.452); */
+    z-index: 10;
+}

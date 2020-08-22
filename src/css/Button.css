@@ -1,0 +1,32 @@
+.filled {
+  background: #5b0ebd;
+  text-align: center;
+  width: 120px;
+  padding: 5px;
+  color: white;
+  font-size: 20px;
+  border: 2px solid #5b0ebd;
+  border-radius: 10px;
+  transition: all 0.7s ease-in-out;
+  outline: none;
+}
+.filled:hover {
+  background: white;
+  color: #5b0ebd;
+}
+.outlined {
+  background: white;
+  outline: none;
+  width: 120px;
+  text-align: center;
+  padding: 5px;
+  color: #5b0ebd;
+  font-size: 20px;
+  border: 2px solid #5b0ebd(89, 1, 139, 0.979);
+  border-radius: 10px;
+  transition: all 0.7s ease-in-out;
+}
+.outlined:hover {
+  background: #5b0ebd;
+  color: white;
+}
