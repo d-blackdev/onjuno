@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/onjuno/static/css/main.60f57208.chunk.css",
+    "main.js": "/onjuno/static/js/main.9f9df056.chunk.js",
+    "main.js.map": "/onjuno/static/js/main.9f9df056.chunk.js.map",
+    "runtime-main.js": "/onjuno/static/js/runtime-main.deae89bd.js",
+    "runtime-main.js.map": "/onjuno/static/js/runtime-main.deae89bd.js.map",
+    "static/js/2.4bd741ac.chunk.js": "/onjuno/static/js/2.4bd741ac.chunk.js",
+    "static/js/2.4bd741ac.chunk.js.map": "/onjuno/static/js/2.4bd741ac.chunk.js.map",
+    "index.html": "/onjuno/index.html",
+    "precache-manifest.a2e492b1b68ed54d57aebc65613b6bbb.js": "/onjuno/precache-manifest.a2e492b1b68ed54d57aebc65613b6bbb.js",
+    "service-worker.js": "/onjuno/service-worker.js",
+    "static/css/main.60f57208.chunk.css.map": "/onjuno/static/css/main.60f57208.chunk.css.map",
+    "static/js/2.4bd741ac.chunk.js.LICENSE.txt": "/onjuno/static/js/2.4bd741ac.chunk.js.LICENSE.txt",
+    "static/media/animation_640_ke30n3vw.gif": "/onjuno/static/media/animation_640_ke30n3vw.3498f266.gif",
+    "static/media/Card.css": "/onjuno/static/media/images.3d22fca1.jpg",
+    "static/media/side.png": "/onjuno/static/media/side.4f0469b3.png",
+    "static/media/usa.png": "/onjuno/static/media/usa.1e182430.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deae89bd.js",
+    "static/js/2.4bd741ac.chunk.js",
+    "static/css/main.60f57208.chunk.css",
+    "static/js/main.9f9df056.chunk.js"
+  ]
+}
